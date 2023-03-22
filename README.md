@@ -2,7 +2,9 @@
 
 ## What is TCG Verse
 
-・TCG Verse is [Oasys](https://www.oasys.games/)' L2 blockchain specializing in TCG（Trading Card Games）.
+[TCG Verse](https://tcgverse.xyz/) is [Oasys](https://www.oasys.games/)' L2(Layer2) blockchain specializing in Trading Card Games.\
+Web：[https://tcgverse.xyz/](https://tcgverse.xyz/)\
+Twitter：[https://twitter.com/tcgverse](https://twitter.com/tcgverse)
 
 ・Introduction Oasys
 
@@ -10,17 +12,18 @@ Oasys is a public blockchain specializing in games. It is launching with support
 
 Oasys is an EVM-Compatible protocol that adopts the Oasys Architecture. This unique architecture consists of a multi-layered structure: Hub-Layer, a highly scalable Layer 1; and Verse-Layer, a special Layer 2 using Ethereum's Layer 2 scaling solution.
 
-Oasys Architecture is built for game developers, offering a high-speed, zero gas fee experience to users by combining the best of public L1 and private L2 blockchain technology solutions.
+Oasys Architecture is built for game developers, offering a high-speed, zero gas fee experience to users by combining the best of public L1 and private L2 blockchain technology solutions.CryptoGames participates in Oasys chain development and validators.
 
-CryptoGames participates in Oasys chain development and validators.
+Web：[https://www.oasys.games/](https://www.oasys.games/)\
+Oasys Hub：[https://hub.oasys.games/](https://hub.oasys.games/)\
+Twitter：[https://twitter.com/oasys\_games](https://twitter.com/oasys\_games)
 
+＜日本語訳＞\
+「TCG Verse」はTrading Card Games）に特化したOasysのL2（レイヤー２）のブロックチェーンです
 
+・Oasysの紹介
 
-TCG VerseはTCG（Trading Card Games）に特化したOasysのL2ブロックチェーンです
-
-Oasys はゲーム開発者向けに構築されており、パブリック L1 およびプライベート L2 ブロックチェーン テクノロジ ソリューションの組み合わせにより、ユーザーは高速且つガス料金無料でゲームを楽しむことが可能です
-
-CryptoGamesはOasysのチェーンの開発とバリデーターを務めています。
+Oasys はゲーム開発者向けに構築されており、パブリック L1 およびプライベート L2 ブロックチェーン テクノロジ ソリューションの組み合わせにより、ユーザーは高速且つガス料金無料でゲームを楽しむことが可能です。CryptoGamesはOasysのチェーンの開発とバリデーターを務めています。
 
 ![](.gitbook/assets/intro-0e2810f266febe6842c1d523e30fd488.png)
 
@@ -28,14 +31,13 @@ CryptoGamesはOasysのチェーンの開発とバリデーターを務めてい�
 
 ## Vision
 
-**Your cards will become your assets.**
+Your cards will become your assets.
 
 We will use blockchain to democratize card games. By operating a semi-permanently sustainable card game, we aim to create a world where cards are assets.
 
 \
-私たちはブロックチェーンを使い、カードゲームを民主化することに挑戦します。
-
-半永久的にサステナブルなカードゲームを運営することにより**「カードが資産になる世界」**を目指します。
+＜日本語訳＞\
+私たちはブロックチェーンを使い、カードゲームを民主化することに挑戦します。半永久的にサステナブルなカードゲームを運営することにより「カードが資産になる世界」を目指します。
 
 <figure><img src=".gitbook/assets/スクリーンショット 2022-09-04 午後1.56.15.png" alt=""><figcaption></figcaption></figure>
 
@@ -51,16 +53,14 @@ Card planning and issuance, as well as game rules, are determined and enforced c
 
 
 
-\
-アナログをベースにしたトレーディングカードゲームです。一般社団法人日本玩具協会のレポートによると日本では2020年度1224億円、2021年度1782億円の市場規模が想定され、2020vs2021で146%の成長をしています。
+＜日本語訳＞\
+TCG1.0は、アナログをベースにしたトレーディングカードゲームです。一般社団法人日本玩具協会のレポートによると日本では2020年度1224億円、2021年度1782億円の市場規模が想定され、2020vs2021で146%の成長をしています。
 
 ＞2021年度の商品動向 　2021年度の玩具市場規模が、調査開始以来、過去最高を記録した最大の要因は、前年度比145.6％、金額にして558億円の伸びを示したカードゲーム・トレーディングカードの躍進です。「ポケモンカードゲーム」、「遊戯王OCG」、「デュエル・マスターズTCG」の3強が市場を牽引し、いずれも大きな伸びを達成しました。特に「ポケモンカードゲーム」は前年に引き続き大変な人気を集め、品薄状態が続きました。カードゲーム・トレーディングカードの躍進は、いずれも発売開始から20～25年が経って2世代型の遊びになっていることに加え、スマホ向け位置情報ゲームアプリや、配信ゲームなどが加わったことによる対象年齢の拡大と、新規ユーザーの獲得によって購入者の裾野が広がっていること、さらにレアカードの高額取引などの話題性によるものです。
 
 [https://www.toys.or.jp/pdf/2022/2021\_data\_zenpan.pdf](https://www.toys.or.jp/pdf/2022/2021\_data\_zenpan.pdf)
 
-カードの企画と発行、及びゲームのルールは運営が中央集権的に決定及び執行を行います。
-
-カードを入手・購入しなければゲームをプレイすることができないため、すぐに開始することはできません。また、ゲームのプレイにはオフラインでパートナーを探す必要があり参加ハードルが高いと考えれられます。他方で、購入したカードはユーザーの資産となり、自由にトレード、レンタル等が可能です。
+カードの企画と発行、及びゲームのルールは運営が中央集権的に決定及び執行を行います。カードを入手・購入しなければゲームをプレイすることができないため、すぐに開始することはできません。また、ゲームのプレイにはオフラインでパートナーを探す必要があり参加ハードルが高いと考えれられます。他方で、購入したカードはユーザーの資産となり、自由にトレード、レンタル等が可能です。
 
 
 
@@ -74,19 +74,16 @@ Card planning and issuance, as well as game rules, are centrally determined and 
 
 
 
-
-
 <figure><img src=".gitbook/assets/スクリーンショット 2022-09-04 午後1.25.33.png" alt=""><figcaption></figcaption></figure>
 
 [https://www.statista.com/statistics/323239/number-gamers-hearthstone-heroes-warcraft-worldwide/](https://www.statista.com/statistics/323239/number-gamers-hearthstone-heroes-warcraft-worldwide/)
 
-デジタルをベースにしたトレーディングカードゲームです。
+＜日本語訳＞\
+TCG2.0は、デジタルをベースにしたトレーディングカードゲームです。
 
 Blizzard社が運営する「ハースストーンは世界的に有名なデジタルカードゲームで、2014年3月にサービスがリリースし、2018年11月には全世界でプレイヤーの数が1億人を突破しました。PC版だけでなくiOSやAndroid、Amazonアプリストアでも配信され、スマートフォンさえあればいつでもどこでも遊ぶことができます。
 
-カードの企画と発行、及びゲームのルールは運営が中央集権的に決定及び執行を行います。
-
-ゲーム内で購入したカードのデータは開発会社のサーバー上にあり、ユーザーは自由にトレードは行うことができず、サービスが終了するとデータは消えてしまいます。
+カードの企画と発行、及びゲームのルールは運営が中央集権的に決定及び執行を行います。ゲーム内で購入したカードのデータは開発会社のサーバー上にあり、ユーザーは自由にトレードは行うことができず、サービスが終了するとデータは消えてしまいます。
 
 ### What is TCG3.0
 
@@ -98,13 +95,10 @@ CryptoSpells, released in Japan in June 2019, allows users to issue their own ca
 
 By aiming for a decentralized DAO, even if the game's developer stops issuing new cards and other operations, users can continue to operate the game on a semi-permanent basis changing the game environment. In addition, using the blockchain mechanism, such as revenue from secondary distribution fees of NFTs, server fees could be generated sustainably.
 
-
-
 <figure><img src=".gitbook/assets/スクリーンショット 2022-09-04 午後1.35.09.png" alt=""><figcaption></figcaption></figure>
 
-
-
-ブロックチェーンをベースにしたトレーディングカードゲームです。\
+＜日本語訳＞\
+TCG3.0はブロックチェーンをベースにしたトレーディングカードゲームです。\
 カードがNFTとなっていることでユーザーが購入したカードは資産となり、自由にトレードやレンタル等を行うことができます。また、オンラインゲームの利点を活かし、ユーザーはどこでも開始することができ、オンライン上で対戦パートナーを探すことが可能です。また、NFTではないカードを用意することで、ユーザーは無料でゲームを開始できます。
 
 カードの企画と発行、及びゲームのルールは運営が中央集権的に決定及び執行を行うこともありますが、ゲームによってはユーザーがカードを発行を行い、ユーザーがガバナンス投票によってルール変更を行うなど、非中央集権的なDAOを目指しているゲームも存在します。
@@ -119,15 +113,17 @@ By aiming for a decentralized DAO, even if the game's developer stops issuing ne
 
 <figure><img src=".gitbook/assets/Screenshot 2022-12-22 at 18.38.51.png" alt=""><figcaption></figcaption></figure>
 
-###
 
-\
+
 
 
 ## Roadmap
 
-TCG Verse will support 50 of our games and partner games by 2026.
-
-
+TCG Verse will support 50 of our games and partner games by 2026.\
+\
+June 2019：\
+\
+＜日本語訳＞\
+TCG Verse は、2026 年までに50のゲームのサポートを計画しています。
 
 <figure><img src=".gitbook/assets/スクリーンショット 2023-01-25 午後6.27.36.png" alt=""><figcaption></figcaption></figure>
