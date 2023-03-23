@@ -1,6 +1,6 @@
 # Introduction
 
-What is TCG Verse
+## What is TCG Verse
 
 [TCG Verse](https://tcgverse.xyz/) is [Oasys](https://www.oasys.games/)' L2(Layer2) blockchain specializing in Trading Card Games.\
 Web：[https://tcgverse.xyz/](https://tcgverse.xyz/)\
