@@ -1,6 +1,6 @@
 # Introduction
 
-## What is TCG Verse
+What is TCG Verse
 
 [TCG Verse](https://tcgverse.xyz/) is [Oasys](https://www.oasys.games/)' L2(Layer2) blockchain specializing in Trading Card Games.\
 Web：[https://tcgverse.xyz/](https://tcgverse.xyz/)\
@@ -111,19 +111,34 @@ TCG3.0はブロックチェーンをベースにしたトレーディングカ�
 
 ## Ecosystem
 
-<figure><img src=".gitbook/assets/Screenshot 2022-12-22 at 18.38.51.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後6.29.56.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Roadmap
 
-TCG Verse will support 50 of our games and partner games by 2026.\
+TCG Verse will support 50 of our games and partner games by 2025.\
 \
-June 2019：\
+June 2019：CryptoSpells released\
+June 2022：TCG Verse released & supported CryptoSpells\
+July 2022 ：NFTWars Alpha released\
+December 2022：Oasys L1 mainnet launch\
+2023： CEX listing、15 games supported\
+2025：50 games supported
+
+
+
 \
 ＜日本語訳＞\
-TCG Verse は、2026 年までに50のゲームのサポートを計画しています。
+TCG Verse は、2025 年までに50のゲームのサポートを計画しています。
 
-<figure><img src=".gitbook/assets/スクリーンショット 2023-01-25 午後6.27.36.png" alt=""><figcaption></figcaption></figure>
+2019年6月：CryptoSpellsリリース\
+2022年6月：TCG Verseリリース ＆CryptoSpellsのサポート\
+2022年7月：NFTWars Alphaリリース\
+2022年12月：Oasys L1 メインネットローンチ\
+2023年： 取引所への上場、15ゲームのサポート\
+2025年：50ゲームのサポート
+
+
+
+<figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後1.14.45.png" alt=""><figcaption></figcaption></figure>
