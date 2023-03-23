@@ -1,42 +1,33 @@
 # Overview
 
+## What is TCGC
+
 $TCGC is governance token of TCG Verse and is issued by BOBG ltd.Governance of TCG Verse, governance in games on TCG Verse such as CryptoSpells, and use in games such as NFTWars are possible.
+
+＜日本語訳＞
 
 $TCGC はTCG VerseのガバナンストークンでBOBG ltd.が発行しています。TCG Verseのガバナンス、CryptoSpellsなどTCG Verse上のゲームでのガバナンス、NFTWarsなどでのゲームでの使用が可能です。
 
-## Token Information&#x20;
+### Token Information&#x20;
 
-Name: TCGCoin&#x20;
+Name: TCGCoin \
+Ticker: $TCGC\
+Total supply : 100,000,000
 
-Ticker: $TCGC
-
-## Utility & Ecosystem
-
-TCGC utilities and ecosystem are described below.\
-TCGCのユーティリティとエコシステムについて説明します。
-
-****
-
-
+### Utility
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2023-01-25 午後9.19.33.png" alt=""><figcaption></figcaption></figure>
-
-#### **Gas fee**
-
-There are no gas fees at TCG Verse. No token usage.\
-TCG Verseではガス代は無料です。トークンの使用はありません。
 
 **CryptoSpells**
 
 ・Governance\
-Game balance adjustment.Adjustment of card abilities.\
-Producer's vote. another.\
+ex. Game balance adjustment.Adjustment of card abilities. Producer's vote. another.\
 ・Buy NFTs
 
 #### NFTWars
 
 ・Governance\
-Game balance adjustment.\
+ex. Game balance adjustment.\
 ・In-game use (card enhancement)
 
 **Another Games（Ours & Partner）**
@@ -47,15 +38,31 @@ Game balance adjustment.\
 #### TCG Verse
 
 ・Governance\
-TCG Verse Policy.\
-How to use TCGC. Another developers (whitelist).
+ex. TCG Verse Policy. How to use TCGC. Another developers (whitelist).
 
-Buy BackTCGC\
-Decide on TCGC buyback.
+＜日本語訳＞
 
+**CryptoSpells**
 
+・ガバナンス\
+ex. 運営方針の決定、プロデューサー投票、ゲームバランス・カードの強さの調整\
+・NFTの購入
 
-####
+#### NFTWars
+
+・ガバナンス\
+ex. ゲームバランスの調整\
+・ゲーム内での消費：カードの強化
+
+**Another Games**
+
+・ガバナンス\
+・NFTの購入 and more..
+
+#### TCG Verse
+
+・ガバナンス\
+ex. TCG Verseの運営方針の決定、TCGCの使用用途の決定、他の事業者のホワイトリスト化
 
 
 
@@ -63,29 +70,21 @@ Decide on TCGC buyback.
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2023-03-02 午後2.24.44.png" alt=""><figcaption></figcaption></figure>
 
-Total supply : 100,000,000
+### Token Circulation&#x20;
 
-Team 4%\
-Advisory 4% \
-Partner 10%\
-Development 17% \
-Promotion 15% \
-Community 50%\
-
-
-## Token Circulation&#x20;
-
-We aim to issue tokens that increase in value over the long term.
-
+We aim to issue tokens that increase in value over the long term.\
 Months to emit : 120months
+
+＜日本語訳＞
+
+TCGCは、長期的に価値が高まるトークンを目指します。\
+排出期間：120ヶ月
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2023-03-02 午後1.47.57.png" alt=""><figcaption></figcaption></figure>
 
 https://docs.google.com/spreadsheets/d/1SoIh-FU09O66OGCsenD858QDe7zp4Bq9LjmnSl6bQII/edit#gid=655616807
 
-## Cliff & Vesting
-
-
+### Cliff & Vesting
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2023-03-02 午後1.51.24.png" alt=""><figcaption></figcaption></figure>
 

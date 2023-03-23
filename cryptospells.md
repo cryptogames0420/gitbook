@@ -38,7 +38,7 @@ CryptoSpellsは日本最大のNFTゲームです。2019年6月に正式リリー
 
 ## Game system
 
-<figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後7.03.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後7.49.24.png" alt=""><figcaption></figcaption></figure>
 
 For details on game content, wallet QA, and management policy, please see Gitbook.
 

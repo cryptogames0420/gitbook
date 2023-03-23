@@ -1,19 +1,43 @@
 # NFTWars
 
+## What is NFTWars
+
+<figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後7.35.09.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後7.17.49.png" alt=""><figcaption></figcaption></figure>
+
+NFTWars is a blockchain card game aiming for a world that can be played with all NFTs.&#x20;
+
+Allows NFTs of various titles in the user wallet to be played in the TCG Verse card game. NFT projects available in NFTWars will be whitelisted and will be determined by governance. When your NFT becomes a card, all NFTs are randomly given parameters. \
 
 
-<figure><img src=".gitbook/assets/スクリーンショット 2023-01-25 午後10.27.54.png" alt=""><figcaption></figcaption></figure>
+・Supports EVM multi-chain NFT \
+・Sustainable returns to NFT holders
 
-・P2E card game playable on multi-chain NFT\
-・Raise awareness among NFT projects\
-・Operation and development achievement from one of Japan's largest BCG & TCG\
-・Sustainable return of profits to NFT creators
 
-## Pitch deck
 
-{% embed url="https://www.canva.com/design/DAFEYaCS5U4/XpkarXHWK_Lye1tILOXPEQ/view?utm_content=DAFEYaCS5U4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" %}
+＜日本語訳＞
 
-## Ecosystem
+NFTWarsは全てのNFTで遊べる世界を目指すブロックチェーンカードゲームです。
 
-<figure><img src=".gitbook/assets/スクリーンショット 2023-01-25 午後10.28.12.png" alt=""><figcaption></figcaption></figure>
+\
+ユーザーウォレット内のさまざまなタイトルの NFT を TCG Verse カードゲームでプレイできるようにします。 NFTWars で利用可能なNFTプロジェクトは、ホワイトリスト形式となっており、ガバナンスによって決定しいく予定です。あなたのNFTがカードになると、すべてのNFTはランダムにパラメータが与えられます。&#x20;
 
+・EVMのマルチチェーンのNFTに対応\
+・NFTホルダーへの持続的な利益還元\
+
+
+## Game system
+
+<figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後7.48.36.png" alt=""><figcaption></figcaption></figure>
+
+For details on game content, and management policy, please see Gitbook.
+
+Gitbook（en）：[https://nft-wars.gitbook.io/nft-wars/](https://nft-wars.gitbook.io/nft-wars/)\
+
+
+＜日本語訳＞
+
+ゲームの内容に関する詳細、運営方針に関しましては、Gitbookをご覧ください。
+
+Gitbook（en）：[https://nft-wars.gitbook.io/nft-wars/](https://nft-wars.gitbook.io/nft-wars/)
