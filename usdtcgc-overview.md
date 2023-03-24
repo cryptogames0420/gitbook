@@ -1,6 +1,6 @@
-# TCGC Overview
+# $TCGC Overview
 
-TCGC is described in the white paper published by BOBG PTE. LTD.&#x20;
+$TCGC is described in the white paper published by BOBG PTE. LTD.&#x20;
 
 \*The Company does not guarantee the legality, consistency, safety, accuracy, or non-compliance with public order and morals of any third-party websites that can be accessed by linking from the Service. Please understand.
 
