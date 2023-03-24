@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [TCGC Overview](tcgc-overview.md)
 * [CryptoSpells](cryptospells.md)
 * [NFTWars](nftwars.md)
 
