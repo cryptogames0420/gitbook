@@ -15,7 +15,7 @@ The secondary marketplace is only tofuNFT right now.
 
 {% embed url="https://tofunft.com/" %}
 
-****
+
 
 **Q3　How to buy NFT on L2?**
 

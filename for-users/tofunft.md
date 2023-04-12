@@ -30,4 +30,4 @@ Please add TCGC token to Metamask before salling your NFTs on TOFUNFT. The way t
 {% embed url="https://app.gitbook.com/o/tLaael1r2H6fVLwmfstE/s/ZOjy0RAsu0Q7A7IUXe10/~/changes/1QtwfCrqEWHBn2wauAqJ/tcgc/how-to-add-tcgc-token-to-metamask" %}
 
 **\*notice(2)**\
-****If a user who do not register Cryptospells purchases a NFT of Cryptospells from tofuNFT, it will be hidden in-game.Please register in advance.
+If a user who do not register Cryptospells purchases a NFT of Cryptospells from tofuNFT, it will be hidden in-game.Please register in advance.

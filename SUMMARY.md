@@ -5,12 +5,6 @@
 * [CryptoSpells](cryptospells.md)
 * [NFTWars](nftwars.md)
 
-## TCGC
-
-* [Overview](tcgc/overview.md)
-* [Contract  Adress](tcgc/contract-adress.md)
-* [Security](tcgc/security.md)
-
 ## For Users
 
 * [TofuNFT](for-users/tofunft.md)
