@@ -44,6 +44,7 @@ For details on game content, wallet QA, and management policy, please see Gitboo
 
 Gitbook（en）：[https://cryptospells.gitbook.io/cryptospells-en/](https://cryptospells.gitbook.io/cryptospells-en/)\
 Gitbook（jp）：[https://cryptospells.gitbook.io/cryptospells/](https://cryptospells.gitbook.io/cryptospells/)\
+contract address：0xd93118ca9af856a71823c413a2841115d7e5c487\
 
 
 ＜日本語訳＞
@@ -52,5 +53,6 @@ Gitbook（jp）：[https://cryptospells.gitbook.io/cryptospells/](https://crypto
 
 Gitbook（en）：[https://cryptospells.gitbook.io/cryptospells-en/](https://cryptospells.gitbook.io/cryptospells-en/)\
 Gitbook（jp）：[https://cryptospells.gitbook.io/cryptospells/](https://cryptospells.gitbook.io/cryptospells/)\
+コントラクトアドレス：0xd93118ca9af856a71823c413a2841115d7e5c487\
 
 
