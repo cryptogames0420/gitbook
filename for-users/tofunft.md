@@ -20,7 +20,11 @@ TofuNFT is secondary marketplace of TCG Verse.You can trade your NFT of TCG Vers
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-12-22 at 22.44.56.png" alt=""><figcaption></figcaption></figure>
 
-３：Select TCG Verse
+３：Select TCG Verse\
+You can use TCGC or L2 OAS as a payment.\
+\
+[How to get L2 OAS?](https://tcgverse.gitbook.io/tcgverse-1/for-users/how-to-bridge-oas-from-l1-to-l2-on-oasys-hub)\
+[How to add TCG Verse network to your wallet?](https://tcgverse.gitbook.io/tcgverse-1/for-users/how-to-add-usdoas-usdtcgc-bridged-over-tcg-verse)
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-12-22 at 22.46.57.png" alt=""><figcaption></figcaption></figure>
 
