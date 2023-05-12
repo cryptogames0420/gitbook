@@ -29,7 +29,7 @@ You can use TCGC or L2 OAS as a payment.\
 <figure><img src="../.gitbook/assets/Screenshot 2022-12-22 at 22.46.57.png" alt=""><figcaption></figcaption></figure>
 
 **\*notice(1)**\
-Please add TCGC token to Metamask before salling your NFTs on TOFUNFT. The way to add TCGC to Metamask　↓&#x20;
+Please add TCGC token to Metamask before salling your NFTs on tofuNFT. The way to add TCGC to Metamask　↓&#x20;
 
 {% embed url="https://app.gitbook.com/o/tLaael1r2H6fVLwmfstE/s/ZOjy0RAsu0Q7A7IUXe10/~/changes/1QtwfCrqEWHBn2wauAqJ/tcgc/how-to-add-tcgc-token-to-metamask" %}
 
