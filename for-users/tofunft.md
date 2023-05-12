@@ -4,15 +4,15 @@ description: >-
   tofuNFT in advance.
 ---
 
-# TofuNFT
+# tofuNFT
 
 ## What is tofuNFT？
 
-TofuNFT is secondary marketplace of TCG Verse.You can trade your NFT of TCG Verse in the marketplace.
+tofuNFT is secondary marketplace of TCG Verse.You can trade your NFT of TCG Verse in the marketplace.
 
 {% embed url="https://tofunft.com/" %}
 
-1：Open TofuNFT
+1：Open tofuNFT
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-12-22 at 22.43.07.png" alt=""><figcaption></figcaption></figure>
 
