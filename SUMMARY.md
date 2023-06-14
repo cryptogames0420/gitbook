@@ -9,7 +9,7 @@
 
 * [Contract Address](for-users/contract-address.md)
 * [How to Add $TCGC token to Metamask](for-users/how-to-add-usdtcgc-token-to-metamask.md)
-* [How to add $OAS / $TCGC bridged over TCG Verse](for-users/how-to-add-usdoas-usdtcgc-bridged-over-tcg-verse.md)
+* [How to add TCGVerse Mainnet to your Metamask](for-users/how-to-add-tcgverse-mainnet-to-your-metamask.md)
 * [How to bridge OAS from L1 to L2 on Oasys hub](for-users/how-to-bridge-oas-from-l1-to-l2-on-oasys-hub.md)
 * [tofuNFT](for-users/tofunft.md)
 
