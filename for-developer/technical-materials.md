@@ -11,7 +11,7 @@ Add your address to the whitelist. You can deploy the EVM contract.
 ### MainNet
 
 Chain ID: 2400\
-Explorer： http://explorer.tcgverse.xyz/\
+Explorer： [https://explorer.tcgverse.xyz/](https://explorer.tcgverse.xyz/)\
 RPC: [https://rpc.tcgverse.xyz/](https://rpc.tcgverse.xyz/)&#x20;
 
 
