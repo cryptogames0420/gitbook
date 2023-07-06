@@ -38,4 +38,9 @@ explorer: [https://testnet.explorer.tcgverse.xyz/](https://testnet.explorer.tcgv
 
 ### Verifier Address
 
-0x9D1aBBdd9acd80f6E8aC087e8CFd5a6B2B1c4043
+0x9D1aBBdd9acd80f6E8aC087e8CFd5a6B2B1c4043\
+
+
+\
+RPC Replica (Read Only): [https://replica.rpc.tcgverse.xyz/ ](broken-reference)\
+Websocket: wss://ws-rpc.tcgverse.xyz/
