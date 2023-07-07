@@ -12,7 +12,9 @@ Add your address to the whitelist. You can deploy the EVM contract.
 
 Chain ID: 2400\
 Explorer： [https://explorer.tcgverse.xyz/](https://explorer.tcgverse.xyz/)\
-RPC: [https://rpc.tcgverse.xyz/](https://rpc.tcgverse.xyz/)&#x20;
+RPC: [https://rpc.tcgverse.xyz/](https://rpc.tcgverse.xyz/) \
+RPC Replica (Read Only): [https://replica.rpc.tcgverse.xyz/ ](broken-reference)\
+Websocket: wss://ws-rpc.tcgverse.xyz/
 
 
 
@@ -41,6 +43,3 @@ explorer: [https://testnet.explorer.tcgverse.xyz/](https://testnet.explorer.tcgv
 0x9D1aBBdd9acd80f6E8aC087e8CFd5a6B2B1c4043\
 
 
-\
-RPC Replica (Read Only): [https://replica.rpc.tcgverse.xyz/ ](broken-reference)\
-Websocket: wss://ws-rpc.tcgverse.xyz/
