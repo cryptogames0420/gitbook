@@ -21,8 +21,9 @@ Websocket: wss://ws-rpc.tcgverse.xyz/
 ### TestNet&#x20;
 
 Chain ID: 12005\
-RPC: [https://testnet.rpc.tcgverse.xyz/](https://testnet.rpc.tcgverse.xyz/)\
-explorer: [https://testnet.explorer.tcgverse.xyz/](https://testnet.explorer.tcgverse.xyz/)
+Explorer: [https://testnet.explorer.tcgverse.xyz/](https://testnet.explorer.tcgverse.xyz/)
+
+RPC: [https://testnet.rpc.tcgverse.xyz/](https://testnet.rpc.tcgverse.xyz/)
 
 
 
