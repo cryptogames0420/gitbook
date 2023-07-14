@@ -24,7 +24,7 @@
 * [N Suite](for-developer/n-suite.md)
 * [Q\&A about NFT](for-developer/q-and-a-about-nft.md)
 * [Q\&A about FT](for-developer/q-and-a-about-ft.md)
-* [Q\&A for development](for-developer/q-and-a-for-development.md)
+* [Q\&A for development,etc...](for-developer/q-and-a-for-development-etc....md)
 * [Media Kit](https://drive.google.com/drive/folders/1DuEosCxK5GL7-O3YHK2CFow9x8VkuDWO)
 
 ## Link\_Community
