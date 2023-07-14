@@ -7,6 +7,7 @@ A.There are no plan to support Moralis API.\
 **Q2　How to post Game on Oasys navi?**\
 \
 A.TCG Verse will apply.Please let us know when you need.\
+　Oasys navi：[https://oasys.gamefi.org/](https://oasys.gamefi.org/)\
 \
 **Q3　How to apply Oasys marketing grant?**\
 \
@@ -16,8 +17,14 @@ A.Please copy the form and submit for TCG Verse first.
 \
 **Q4**　**How to post Game on TCG Verse official site?**\
 \
-A.Please send required information and inform TCG Verse.
+A.Please send required information and inform TCG Verse.\
+　TCG Verse official site：[https://tcgverse.xyz/](https://tcgverse.xyz/)
 
-Required information：Game name,short explanation until 100 letters,twitter url,top page url,official logo.\
+Required information\
+・Game name\
+・Short explanation until 200 letters\
+・Twitter url\
+・Top page url\
+・Official logo url\
 
 
