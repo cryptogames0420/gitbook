@@ -26,5 +26,9 @@ Required information\
 ・Twitter url\
 ・Top page url\
 ・Official logo url\
+\
+**Q5**　**How to Create Liquidity Pools on Tealswap?**
+
+[https://medium.com/@laboratoryteal/tealswap-updates-create-liquidity-pools-without-knowing-smart-contracts-6200f433cede](https://medium.com/@laboratoryteal/tealswap-updates-create-liquidity-pools-without-knowing-smart-contracts-6200f433cede)\
 
 
