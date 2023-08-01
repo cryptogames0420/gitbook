@@ -18,6 +18,7 @@
 * [Technical Materials](for-developer/technical-materials.md)
 * [Why Choose TCG Verse](for-developer/why-choose-tcg-verse.md)
 * [Bug bounty](for-developer/bug-bounty.md)
+* [Tealswap](for-developer/tealswap.md)
 * [Double Protocol](for-developer/double-protocol.md)
 * [RentaFi](for-developer/rentafi.md)
 * [YomiSwap](for-developer/yomiswap.md)
