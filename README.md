@@ -1,6 +1,6 @@
 # Introduction
 
-## What is TCG Verse
+What is TCG Verse
 
 [TCG Verse](https://tcgverse.xyz/) is [Oasys](https://www.oasys.games/)' L2(Layer2) blockchain specializing in Trading Card Games.\
 Web：[https://tcgverse.xyz/](https://tcgverse.xyz/)\
@@ -133,12 +133,12 @@ December 2022：Oasys L1 mainnet launch\
 TCG Verse は、2025 年までに50のゲームのサポートを計画しています。
 
 2019年6月：CryptoSpellsリリース\
-2022年6月：TCG Verseリリース ＆CryptoSpellsのサポート\
-2022年7月：NFTWars Alphaリリース\
+2022年6月：TCG Verseメインネットローンチ ＆CryptoSpellsがTCG Verseに対応\
+2022年7月：NFTWars αリリース\
 2022年12月：Oasys L1 メインネットローンチ\
-2023年： 取引所への上場、15ゲームのサポート\
-2025年：50ゲームのサポート
+2023年： 暗号資産取引所への上場、15ゲームがTCG Verseに対応\
+2025年：50ゲームがTCG Verseに対応
 
 
 
-<figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後1.14.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/スクリーンショット 2023-09-25 午前3.36.05.png" alt=""><figcaption></figcaption></figure>
