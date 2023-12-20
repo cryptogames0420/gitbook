@@ -1,6 +1,6 @@
 # Technical Materials
 
-## Want to deploy your smart contract with TCGverse?
+## Want to deploy your smart contract with TCG Verse?
 
 Add your address to the whitelist. You can deploy the EVM contract.
 
@@ -20,10 +20,10 @@ Websocket: wss://ws-rpc.tcgverse.xyz/
 
 ### TestNet&#x20;
 
-Chain ID: 12005\
-Explorer: [https://testnet.explorer.tcgverse.xyz/](https://testnet.explorer.tcgverse.xyz/)
-
-RPC: [https://testnet.rpc.tcgverse.xyz/](https://testnet.rpc.tcgverse.xyz/)
+TestNet Chain ID: 12401 \
+Explorer: [https://explorer.testnet.tcgverse.xyz/](https://explorer.testnet.tcgverse.xyz/)\
+RPC: [https://rpc.testnet.tcgverse.xyz/](https://rpc.testnet.tcgverse.xyz/)\
+Websocket: wss://ws.testnet.tcgverse.xyz/
 
 
 
