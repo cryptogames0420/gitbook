@@ -16,6 +16,12 @@ RPC: [https://rpc.tcgverse.xyz/](https://rpc.tcgverse.xyz/) \
 RPC Replica (Read Only): [https://rep-rpc.tcgverse.xyz/](https://rep-rpc.tcgverse.xyz/)\
 Websocket: wss://ws-rpc.tcgverse.xyz/
 
+10,000 total requests/day.
+
+\*When making a large number of transactions from the same IP address at once, there is a possibility of encountering errors. If you need to make a large number of transactions, such as for an NFT sale, please contact us in advance.
+
+If you want to send a lot of read request to the node,please select read only node.
+
 
 
 ### TestNet&#x20;
