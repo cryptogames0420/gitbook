@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [$TCGC Overview](usdtcgc-overview.md)
+* [$TCGC Farming campaign](usdtcgc-farming-campaign.md)
 * [CryptoSpells](cryptospells.md)
 * [NFTWars](nftwars.md)
-* [$TCGC Farming campaign](usdtcgc-farming-campaign.md)
 
 ## For Users
 

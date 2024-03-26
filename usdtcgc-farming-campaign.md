@@ -1,6 +1,6 @@
 # $TCGC Farming campaign
 
-## Notice of $TCGC liquidity enhancement campaign
+Notice of $TCGC liquidity enhancement campaign
 
 ### Campaign overview
 
@@ -44,9 +44,9 @@ TealSwap v2 OAS<>TCGC pool
 
 
 
-<figure><img src=".gitbook/assets/スクリーンショット 2024-03-26 午後1.08.15.png" alt=""><figcaption></figcaption></figure>
 
-##
+
+<figure><img src=".gitbook/assets/スクリーンショット 2024-03-27 午前1.47.03.png" alt=""><figcaption></figcaption></figure>
 
 $TCGC 流動性強化キャンペーンのお知らせ \
 
@@ -90,4 +90,6 @@ TealSwap v2の OAS<>TCGCプール
 
 \*LPトークンを預け入れた数量/期間に応じて報酬が配布されます
 
-<figure><img src=".gitbook/assets/スクリーンショット 2024-03-26 午後1.08.15.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/スクリーンショット 2024-03-27 午前1.47.03 (1).png" alt=""><figcaption></figcaption></figure>
