@@ -10,7 +10,7 @@
 * [Contract Address](for-users/contract-address.md)
 * [How to get $TCGC](for-users/how-to-get-usdtcgc.md)
 * [How to Add $TCGC token to Metamask](for-users/how-to-add-usdtcgc-token-to-metamask.md)
-* [How to add TCG Verse Mainnet to your Metamask](for-users/how-to-add-tcg-verse-mainnet-to-your-metamask.md)
+* [How to add TCG Verse to your Metamask](for-users/how-to-add-tcg-verse-to-your-metamask.md)
 * [How to bridge OAS from L1 to L2](for-users/how-to-bridge-oas-from-l1-to-l2.md)
 * [tofuNFT](for-users/tofunft.md)
 
