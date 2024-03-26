@@ -1,4 +1,4 @@
-# How to add $OAS / $TCGC bridged over TCG Verse
+# How to add TCG Verse to your Metamask
 
 ①Select settings from your own Metamask.
 
