@@ -24,9 +24,11 @@ TealSwap v2 OAS<>TCGC pool
 
 ### Campaign details How to participate in the campaign&#x20;
 
-① Select the OAS<>TCGC pair from the TealSwap v2 Pools page and add liquidity to the OAS<>TCGC pool.
+①Switch your chain to Oasys Hub Layer then visit the TealSwap v2 page
 
+[https://app.v2.tealswap.com/](https://app.v2.tealswap.com/)
 
+②Select the OAS<>TCGC pair from the TealSwap v2 Pools page and add liquidity to the OAS<>TCGC pool.
 
 <figure><img src=".gitbook/assets/スクリーンショット 2024-03-26 午後0.58.54.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +78,11 @@ TealSwap v2の OAS<>TCGCプール
 
 #### キャンペーンへの参加方法&#x20;
 
-①TealSwap v2のPoolsページ からOAS<>TCGCペアを選択し、OAS<>TCGCプールに流動性を追加
+①チェーンをOasys Hub Layerに切り替えてから、TealSwap v2ページにアクセス
+
+[https://app.v2.tealswap.com/](https://app.v2.tealswap.com/)
+
+②OAS<>TCGCペアを選択し、OAS<>TCGCプールに流動性を追加
 
 <figure><img src=".gitbook/assets/スクリーンショット 2024-03-26 午後0.58.54.png" alt=""><figcaption></figcaption></figure>
 
