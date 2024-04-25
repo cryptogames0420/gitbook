@@ -8,7 +8,7 @@ To commemorate the implementation of NFTWars level up, we will run a campaign wh
 
 
 
-\*4/25 Added\
+\*4/25 2024 Added\
 User refers to TCGC holder.\
 CryptoGames personnel, partners, investors, etc. may also participate in the campaign.
 
