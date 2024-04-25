@@ -6,6 +6,12 @@ Notice of $TCGC liquidity enhancement campaign
 
 To commemorate the implementation of NFTWars level up, we will run a campaign where users who provide liquidity to Tealswap ([@tealswap](https://twitter.com/tealswap))'s TCGC <> OAS pool will be given OAS as a reward by utilizing the [Multi Farming function](https://medium.com/@laboratoryteal/join-the-grand-unveiling-multifarming-is-here-e4a924ff4ac1).&#x20;
 
+
+
+\*4/25 Added\
+User refers to TCGC holder.\
+CryptoGames personnel, partners, investors, etc. may also participate in the campaign.
+
 ### period&#x20;
 
 March 26th \~ June 26th, 2024&#x20;
@@ -60,11 +66,18 @@ NFTWars レベルアップ実装を記念し、Tealswap ( [@tealswap](https://tw
 
 
 
+\*2024年 4/25 追記
+
+ユーザーとはTCGCホルダーのことを指します\
+CryptoGames関係者、パートナー、投資家等もキャンペーンに参加する可能性がございます
+
+
+
 ### 期間
 
 2024年3月26日 \~ 6月26日
 
-\*テスト期間を含んでいる為、告知は3月27日となっています
+\*テスト期間を含む為、告知は3月27日となっています
 
 ### 報酬総額
 
