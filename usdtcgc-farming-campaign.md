@@ -10,7 +10,7 @@ To commemorate the implementation of NFTWars level up, we will run a campaign wh
 
 \*4/25 2024 Added\
 User refers to TCGC holder.\
-CryptoGames personnel, partners, investors, etc. may also participate in the campaign.
+CryptoGames Inc. & personnel, partners, investors, etc. may also participate in the campaign.
 
 ### period&#x20;
 
@@ -69,7 +69,7 @@ NFTWars レベルアップ実装を記念し、Tealswap ( [@tealswap](https://tw
 \*2024年 4/25 追記
 
 ユーザーとはTCGCホルダーのことを指します\
-CryptoGames関係者、パートナー、投資家等もキャンペーンに参加する可能性がございます
+CryptoGames・関係者、パートナー、投資家等もキャンペーンに参加する可能性がございます
 
 
 
