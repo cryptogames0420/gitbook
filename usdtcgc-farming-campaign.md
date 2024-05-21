@@ -73,20 +73,6 @@ CryptoGames・関係者、パートナー、投資家等もキャンペーンに
 
 
 
-\*2024年 5/20 追記
-
-上記の追記事項に、CryptoGames・関係者もキャンペーンに参加する可能性があることを明記いたしましたが、CryptoGames社とみなされる可能性のあるアドレスについては、本キャンペーンへ参加しない方針といたしました。
-
-それに伴い、キャンペーン開始時から5/20時点までに本キャンペーンで受け取った報酬OASを自主的に報酬プールへ追加させていただいたことをお知らせします。なおキャンペーン期間については変更はございません。
-
-・報酬tx\
-https://explorer.oasys.games/tx/0x736c762d05aa463d7f9581d4eca255a0ae1bc60c8d5ea559e1a831bcba78b406\
-[https://explorer.oasys.games/tx/0x44e19edd9bf1d31ec2d395662fd864769bdfe878494b7a246785464bd324e4a2](https://explorer.oasys.games/tx/0x44e19edd9bf1d31ec2d395662fd864769bdfe878494b7a246785464bd324e4a2)[https://explorer.oasys.games/tx/0xeb7b39419ea4ca2a9d553961e6006275266fe6f6d0d0cd17ff9df48a5cc62304](https://explorer.oasys.games/tx/0xeb7b39419ea4ca2a9d553961e6006275266fe6f6d0d0cd17ff9df48a5cc62304)[https://explorer.oasys.games/tx/0xcd10fa61ef85f62426e2f93942400c2f7d96af0e7fab94395532d102f4d1ab20/internal-transactions](https://explorer.oasys.games/tx/0xcd10fa61ef85f62426e2f93942400c2f7d96af0e7fab94395532d102f4d1ab20/internal-transactions)
-
-
-
-・報酬プールへの追加OAS：60766.76587 OAS
-
 
 
 ### 期間
