@@ -8,9 +8,26 @@ To commemorate the implementation of NFTWars level up, we will run a campaign wh
 
 
 
-\*4/25 2024 Added\
+\*Added on 4/25, 2024\
 User refers to TCGC holder.\
 CryptoGames Inc. & personnel, partners, investors, etc. may also participate in the campaign.
+
+\*Added on 5/26, 2024\
+In the additional notes above, we have specified that CryptoGames and related parties may also participate in the campaign, but we have decided not to participate in this campaign for addresses that may be considered to be CryptoGames.&#x20;
+
+Accordingly, we would like to inform you that we will voluntarily add the reward OAS received from this campaign to the reward pool. The addition is scheduled for around May 26-27.&#x20;
+
+There are no changes to the campaign period.&#x20;
+
+Additional reward: 25203.51488 OAS (+5% fee to TealSwap)&#x20;
+
+https://explorer.oasys.games/tx/0x0d1e817d74b6456040492ddf1e303340c7c179751e3fd2b345601a86f63da6a0\
+\
+&#x20;(Correction and Apology) \
+I wrote "Additional OAS to reward pool: 60766 OAS" in this gitbook around May 20th. This was an error due to a lack of aggregation, so we will correct it. The correct number is the number above. We apologize for any confusion caused.\
+
+
+
 
 ### period&#x20;
 
@@ -81,7 +98,8 @@ CryptoGames・関係者、パートナー、投資家等もキャンペーンに
 
 なおキャンペーン期間については変更はございません。
 
-追加報酬：25203.51488 OAS
+追加報酬：25203.51488 OAS（+ TealSwapへの手数料5%）[https://explorer.oasys.games/tx/0x0d1e817d74b6456040492ddf1e303340c7c179751e3fd2b345601a86f63da6a0](https://explorer.oasys.games/tx/0x0d1e817d74b6456040492ddf1e303340c7c179751e3fd2b345601a86f63da6a0)\
+
 
 （訂正と謝罪）5/20頃に本gitbookに「報酬プールへの追加OAS：60766 OAS」と記載いたしましたが。こちらは集計不備による誤りでしたので訂正させていただきます。正しくは上記の枚数となります。混乱を招いた方申し訳ございません。
 
