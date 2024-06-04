@@ -24,7 +24,13 @@ Additional reward: 25203.51488 OAS (+fee to TealSwap)&#x20;
 https://explorer.oasys.games/tx/0x0d1e817d74b6456040492ddf1e303340c7c179751e3fd2b345601a86f63da6a0\
 \
 &#x20;(Correction and Apology) \
-I wrote "Additional OAS to reward pool: 60766 OAS" in this gitbook around May 20th. This was an error due to a lack of aggregation, so we will correct it. The correct number is the number above. We apologize for any confusion caused.\
+I wrote "Additional OAS to reward pool: 60766 OAS" in this gitbook around May 20th. This was an error due to a lack of aggregation, so we will correct it. The correct number is the number above. We apologize for any confusion caused.
+
+\*Added on 6/4, 2024
+
+We would like to inform you that we have added 2,108 OAS to the liquidity campaign reward pool and re-added approximately 27,311 OAS to the reward pool, including the OAS that have been added as of May 26th.
+
+[https://explorer.oasys.games/tx/0x96dccac6863c8533533afa29cf576cf46bd468fb58a567eb1a66f38aa4d4fabf](https://explorer.oasys.games/tx/0x96dccac6863c8533533afa29cf576cf46bd468fb58a567eb1a66f38aa4d4fabf)\
 
 
 
@@ -102,6 +108,12 @@ CryptoGames・関係者、パートナー、投資家等もキャンペーンに
 
 
 （訂正と謝罪）5/20頃に本gitbookに「報酬プールへの追加OAS：60766 OAS」と記載いたしましたが。こちらは集計不備による誤りでしたので訂正させていただきます。正しくは上記の枚数となります。混乱を招いた方申し訳ございません。
+
+\*2024年 6/4 追記
+
+流動性キャンペーンの報酬プールへ、2,108 OASを追加し、5月26日時点で追加済みのOASと合わせて、約27,311 OAS を報酬プールへと再追加したことをお知らせいたします。
+
+&#x20;[https://explorer.oasys.games/tx/0x96dccac6863c8533533afa29cf576cf46bd468fb58a567eb1a66f38aa4d4fabf](https://t.co/aGMb52W5Rx)
 
 
 
