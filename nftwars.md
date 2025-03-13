@@ -1,5 +1,13 @@
 # NFTWars
 
+\*NFTWarsは2025年3/31よりサービスの無期限停止しております
+
+\*NFTWars has been indefinitely suspended as of March 31, 2025.
+
+##
+
+##
+
 ## What is NFTWars
 
 <figure><img src=".gitbook/assets/スクリーンショット 2023-03-23 午後7.35.09.png" alt=""><figcaption></figcaption></figure>
