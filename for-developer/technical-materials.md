@@ -4,9 +4,14 @@
 
 Add your address to the whitelist. You can deploy the EVM contract.
 
-**Contact us on our discord**
 
-[https://discord.com/invite/rYq23RtZHH](https://discord.com/invite/rYq23RtZHH)
+
+**Contact us on our discord / Discordでお問い合わせください**
+
+[https://discord.com/invite/rYq23RtZHH](https://discord.com/invite/rYq23RtZHH)\
+\
+**Contract Deployment Application Form /コントラクトデプロイ用申込フォーム**\
+[https://forms.gle/b7HRAexWzJwuqw9S9](https://forms.gle/b7HRAexWzJwuqw9S9)
 
 ### MainNet
 
